@@ -1,0 +1,190 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Quiz</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38282</md:content-id>
+  <md:title>Quiz</md:title>
+  <md:abstract/>
+  <md:uuid>2e447e9a-45ef-45d4-b8b0-3a0494ba9d6e</md:uuid>
+</metadata>
+
+<content>
+<para id="opgave1">
+<exercise id="e1"><q:item id="item1" type="single-response">
+
+<q:question>
+Hvilken salgsteknik skal bruges hvis: Du skal afdække en kundes købs motiv?
+</q:question>
+
+<q:answer id="spørge1">
+<q:response>Spørgeteknik</q:response>
+<q:feedback>Korrekt!</q:feedback>
+</q:answer>
+
+<q:answer id="åbning1">
+<q:response>Åbningsfasen (5x20)</q:response>
+<q:feedback>Det var desværre forkert.</q:feedback>
+</q:answer>
+
+<q:answer id="sælger1">
+<q:response>En sælger skal</q:response>
+<q:feedback>Det var desværre forkert.</q:feedback>
+</q:answer>
+
+
+<q:key answer="spørge1"/>
+</q:item> 
+
+
+</exercise></para>
+
+<para id="opgave2">
+<exercise id="e2"><q:item id="item2" type="single-response">
+
+<q:question>
+Hvilken salgsteknik skal bruges hvis: Du skal lukke en handel?
+</q:question>
+
+<q:answer id="efu2">
+<q:response>EFU Metoden</q:response>
+<q:feedback>Det var desværre forkert.</q:feedback>
+</q:answer>
+
+<q:answer id="spørge2">
+<q:response>Spørgeteknik</q:response>
+<q:feedback>Det var desværre forkert.</q:feedback>
+</q:answer>
+
+<q:answer id="afslutning2">
+<q:response>Afslutningsteknik</q:response>
+<q:feedback>Korrekt!</q:feedback>
+</q:answer>
+
+
+<q:key answer="afslutning2"/>
+</q:item> 
+
+
+</exercise></para>
+
+
+<para id="opgave3">
+<exercise id="e3"><q:item id="item3" type="single-response">
+
+<q:question>
+Hvilken salgsteknik skal bruges hvis: Du lige er kommet ind til en kunde?
+</q:question>
+
+<q:answer id="afslutning3">
+<q:response>Afslutningsteknik</q:response>
+<q:feedback>Det var desværre forkert.</q:feedback>
+</q:answer>
+
+<q:answer id="åbning3">
+<q:response>Åbningsfasen (5x20)</q:response>
+<q:feedback>Korrekt!</q:feedback>
+</q:answer>
+
+<q:answer id="skal3">
+<q:response>En sælger skal</q:response>
+<q:feedback>Det var desværre forkert.</q:feedback>
+</q:answer>
+
+
+<q:key answer="åbning3"/>
+</q:item> 
+
+
+</exercise></para>
+
+<para id="opgave4">
+<exercise id="e4"><q:item id="item4" type="single-response">
+
+<q:question>
+Hvilken salgsteknik skal bruges hvis: Du skal beskrive et produkt?
+</q:question>
+
+<q:answer id="spørge4">
+<q:response>Spørgeteknik</q:response>
+<q:feedback>Det var desværre forkert.</q:feedback>
+</q:answer>
+
+<q:answer id="afslutning4">
+<q:response>Afslutningsteknik</q:response>
+<q:feedback>Det var desværre forkert.</q:feedback>
+</q:answer>
+
+<q:answer id="efu4">
+<q:response>EFU metoden</q:response>
+<q:feedback>Korrekt!</q:feedback>
+</q:answer>
+
+
+<q:key answer="efu4"/>
+</q:item> 
+
+
+</exercise></para>
+
+<para id="opgave5">
+<exercise id="e5"><q:item id="item5" type="single-response">
+
+<q:question>
+Hvilken salgsteknik skal bruges hvis: Du taler med kunder (basale kommunikationsregler)?
+</q:question>
+
+<q:answer id="afslutning5">
+<q:response>Afslutningsteknik</q:response>
+<q:feedback>Det var desværre forkert.</q:feedback>
+</q:answer>
+
+<q:answer id="åbning5">
+<q:response>Åbningsfasen (5x20)</q:response>
+<q:feedback>Det var desværre forkert.</q:feedback>
+</q:answer>
+
+<q:answer id="skal5">
+<q:response>En sælger skal</q:response>
+<q:feedback>Korrekt!</q:feedback>
+</q:answer>
+
+
+<q:key answer="skal5"/>
+</q:item> 
+
+
+</exercise></para>
+
+
+<para id="opgave6">
+<exercise id="e6"><q:item id="item6" type="single-response">
+
+<q:question>
+Hvilken salgsteknik skal bruges hvis: En kunde er utilfreds med den sidste leverance?
+</q:question>
+
+<q:answer id="indvendinger6">
+<q:response>Indvendinger (LAER)</q:response>
+<q:feedback>Korrekt!</q:feedback>
+</q:answer>
+
+<q:answer id="spørge6">
+<q:response>Spørgeteknik</q:response>
+<q:feedback>Det var desværre forkert.</q:feedback>
+</q:answer>
+
+<q:answer id="afslutning6">
+<q:response>Afslutningsteknik</q:response>
+<q:feedback>Det var desværre forkert.</q:feedback>
+</q:answer>
+
+
+<q:key answer="indvendinger6"/>
+</q:item> 
+
+
+</exercise></para>
+
+
+</content>
+</document>
